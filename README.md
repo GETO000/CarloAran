@@ -1,0 +1,7 @@
+![image-profile-desktop](https://github.com/GETO000/CarloAran/assets/171316637/d1d45e49-ec12-4593-9c40-4ebb8a398a40)
+![image-profile-mobile](https://github.com/GETO000/CarloAran/assets/171316637/3208d630-9aa5-4198-b288-41f4a54f3dfc)
+![image-profile-tablet](https://github.com/GETO000/CarloAran/assets/171316637/adf552b4-a3c3-4dfc-b550-c4fc5cad9441)
+![thumbnail-project-1-large](https://github.com/GETO000/CarloAran/assets/171316637/937f4271-0852-4f6d-90e3-36af9ff7eb17)
+![thumbnail-project-1-small](https://github.com/GETO000/CarloAran/assets/171316637/6e0ac7f4-67a4-4df7-bc8f-92303738d6db)
+![thumbnail-project-2-large](https://github.com/GETO000/CarloAran/assets/171316637/a2a17a09-a25a-4196-948b-2325b74f11fb)
+![thumbnail-project-2-small](https://github.com/GETO000/CarloAran/assets/171316637/f246cb43-da48-4339-942e-10c4ef6d508a)
